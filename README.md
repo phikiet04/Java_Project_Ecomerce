@@ -5,7 +5,7 @@
  - Trang web được xây dưng dựa trên các nền tảng: HTML, CSS, Java, Javascript, MySQL.
 # Dưới đây là những hình ảnh chi tiết về website này
 # Trang chủ
-![example](./images/Screenshot 2024-11-08 101009.png)
+![example](./images/Screenshop.png)
 ![example](./images/home2.png)
 ![example](./images/home3.png)
 ![example](./images/home4.png)
