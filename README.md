@@ -9,7 +9,7 @@
 ![example](./images/home2.png)
 ![example](./images/home3.png)
 ![example](./images/home4.png)
-![example](./images/home5.ong)
+![example](./images/home5.png)
 ![example](./images/home6.png)
 ![example](./images/home7.png)
 # Trang Shop
