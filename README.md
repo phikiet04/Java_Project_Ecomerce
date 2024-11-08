@@ -18,10 +18,10 @@
 ![example](./images/shop2.png)
 ![example](./images/shop3.png)
 # Trang chi tiết sản phẩm
-![example](./images/admin_Dashboard.png)
-![example](./images/admin_Dashboard1.png)
-![example](./images/admin_Dashboard2.png)
-![example](./images/admin_Dashboard3.png)
+![example](./images/detailproduct.png)
+![example](./images/detailproduct1.png)
+![example](./images/detailproduct2.png)
+
 
 # Trang Blog
 ![example](./images/blog1.jpg)
