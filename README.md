@@ -14,9 +14,9 @@
 ![example](./images/home7.png)
 # Trang Shop
 ![example](./images/shop.png)
-![example](./images/shop1.png)
 ![example](./images/shop2.png)
 ![example](./images/shop3.png)
+![example](./images/shop4.png)
 # Trang chi tiết sản phẩm
 ![example](./images/detailproduct.png)
 ![example](./images/detailproduct1.png)
