@@ -1,11 +1,11 @@
-#### Lê Quý Thiên
- ### HTML, CSS, Java, Javascript, MySQL. - Thiết kế website LQT Shop
+#### Võ Phi Kiệt
+ ### HTML, CSS, Java, Javascript, MySQL. - Thiết kế website Karma Shop
  # Giới thiệu
- - Trang web LQTShop chính là một website bán hàng với sản phẩm chủ yếu là thời trang.
+ - Trang web Karma chính là một website bán hàng với sản phẩm chủ yếu là thời trang.
  - Trang web được xây dưng dựa trên các nền tảng: HTML, CSS, Java, Javascript, MySQL.
 # Dưới đây là những hình ảnh chi tiết về website này
 # Trang chủ
-![example](./images/home1.png)
+![example](./images/Screenshot 2024-11-08 101009.png)
 ![example](./images/home2.png)
 ![example](./images/home3.png)
 ![example](./images/home4.png)
